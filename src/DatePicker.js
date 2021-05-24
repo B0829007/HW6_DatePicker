@@ -13,9 +13,9 @@ const useStyles = makeStyles((theme) => ({
     width: 170
   },
   textField2: {
-    marginLeft: theme.spacing(1),
-    marginRight: theme.spacing(0),
-    width: 135
+    marginLeft: theme.spacing(0),
+    marginRight: theme.spacing(1),
+    width: 50
   }
 }));
 
